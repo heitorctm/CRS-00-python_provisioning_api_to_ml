@@ -1,4 +1,4 @@
-# CRS-01-python-provisioning-api-to-ml
+# CRS-python-provisioning-api-to-ml
 
 This repository contains the materials for the course **“Python Provisioning: From API to Machine Learning”**.
 
